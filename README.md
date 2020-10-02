@@ -1,2 +1,3 @@
 # CS-Algorithm
-This repository is comprized of different questions based on algorithms and their solutions.
+This repository is comprised of different questions based on algorithms and their solutions.
+Do mention the code name and programming language while creating PR.
